@@ -76,3 +76,4 @@ def gett_question(quiz_id, question_id):
 
 data = cursor.fetchall()
 print (data)
+#china
