@@ -23,3 +23,4 @@ app.add_url_rule('/','homepage',homepage)
 app.add_url_rule('/result','result', result)
 app.add_url_rule('/test','test', test)
 app.run()
+#ri
